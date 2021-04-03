@@ -14,7 +14,7 @@
 	<p> 3. textarea : 
 	
 	<form>
-		이름[text : 값넣기] : <input type="text" value="김이박"> <br><br>dfvdfsvdsfvfv
+		이름[text : 값넣기] : <input type="text" value="김이박"> <br><br>
 		이름[text : 읽기모드] : <input type="text" value="김이박" readonly="readonly"> <br><br>
 		이름[text : 입력예시] : <input type="text" placeholder="성명입력"> <br><br>
 		이름[text : 사용불가] : <input type="text" placeholder="성명입력" disabled="disabled"> <br><br>
